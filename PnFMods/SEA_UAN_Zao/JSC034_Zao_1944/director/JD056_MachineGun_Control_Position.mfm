@@ -1,0 +1,17 @@
+<JD056_MachineGun_Control_Position.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD056_MachineGun_Control_Position_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD056_MachineGun_Control_Position_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD056_MachineGun_Control_Position_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/default_ao.tga	</Texture>
+	</property>
+</JD056_MachineGun_Control_Position.mfm>

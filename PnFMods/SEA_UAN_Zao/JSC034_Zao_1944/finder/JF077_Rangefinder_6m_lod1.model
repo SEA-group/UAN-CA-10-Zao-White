@@ -1,1 +1,8 @@
-<JF077_Rangefinder_6m_lod1.model><castsShadow>false</castsShadow><parent>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m_lod2</parent><extent>4.000000</extent><exporter>1.5</exporter><nodefullVisual>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JF077_Rangefinder_6m_lod1.model>
+<JF077_Rangefinder_6m_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m_lod2	</parent>
+	<extent>	4.000000	</extent>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF077_Rangefinder_6m_lod1.model>

@@ -1,0 +1,17 @@
+<JD059_Torpedo_Director.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD059_Torpedo_Director_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/default_ao.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD059_Torpedo_Director_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD059_Torpedo_Director_n.tga	</Texture>
+	</property>
+</JD059_Torpedo_Director.mfm>

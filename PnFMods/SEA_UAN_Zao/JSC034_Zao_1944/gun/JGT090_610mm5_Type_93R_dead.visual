@@ -1,1 +1,38 @@
-<JGT090_610mm5_Type_93R_dead.visual><boundingBox><min>-0.157604 -0.005897 -0.265284</min><max>0.204121 0.096126 0.368039</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Type93R_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Type93R_dead</node><geometry><vertices>Type93R_deadShape.vertices</vertices><primitive>Type93R_deadShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/d634619ab8b34106c937f1c6580043da.mfm</mfm></material></primitiveGroup></geometry></renderSet></JGT090_610mm5_Type_93R_dead.visual>
+<JGT090_610mm5_Type_93R_dead.visual>
+	<boundingBox>
+		<min>	-0.157604 -0.005897 -0.265284	</min>
+		<max>	0.204121 0.096126 0.368039	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Type93R_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Type93R_dead	</node>
+		<geometry>
+			<vertices>	Type93R_deadShape.vertices	</vertices>
+			<primitive>	Type93R_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGT017_610mm4_Type_93_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGT090_610mm5_Type_93R_dead.visual>

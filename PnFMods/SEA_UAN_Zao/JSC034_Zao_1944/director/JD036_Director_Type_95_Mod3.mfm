@@ -1,0 +1,17 @@
+<JD036_Director_Type_95_Mod3.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD036_Director_Type_95_Mod3_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD036_Director_Type_95_Mod3_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD036_Director_Type_95_Mod3_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/default_ao.tga	</Texture>
+	</property>
+</JD036_Director_Type_95_Mod3.mfm>

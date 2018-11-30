@@ -1,0 +1,11 @@
+<Japan_Disk_3Blade_01.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/Japan_Disk_3Blade_01_a.tga	</Texture>
+	</property>
+</Japan_Disk_3Blade_01.mfm>

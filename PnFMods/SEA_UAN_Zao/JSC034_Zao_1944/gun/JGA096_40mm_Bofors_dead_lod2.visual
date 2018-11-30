@@ -1,1 +1,38 @@
-<JGA096_40mm_Bofors_dead_lod2.visual><boundingBox><min>-0.088852 0.000000 -0.097107</min><max>0.086614 0.196938 0.139858</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>JGA096_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>JGA096_dead</node><geometry><vertices>JGA096_dead_lod2Shape.vertices</vertices><primitive>JGA096_dead_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/55f257e759f41b2c31da8d921c7b1ef2.mfm</mfm></material></primitiveGroup></geometry></renderSet></JGA096_40mm_Bofors_dead_lod2.visual>
+<JGA096_40mm_Bofors_dead_lod2.visual>
+	<boundingBox>
+		<min>	-0.088852 0.000000 -0.097107	</min>
+		<max>	0.086614 0.196938 0.139858	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	JGA096_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JGA096_dead	</node>
+		<geometry>
+			<vertices>	JGA096_dead_lod2Shape.vertices	</vertices>
+			<primitive>	JGA096_dead_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGA096_40mm_Bofors_dead_lod2.visual>

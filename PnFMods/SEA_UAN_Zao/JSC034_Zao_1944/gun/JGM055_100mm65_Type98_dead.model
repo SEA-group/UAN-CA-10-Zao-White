@@ -1,1 +1,9 @@
-<JGM055_100mm65_Type98_dead.model><parent>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGM055_100mm65_Type98_dead_lod1</parent><extent>4.0000</extent><materialNames /><castsShadow>true</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGM055_100mm65_Type98_dead</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JGM055_100mm65_Type98_dead.model>
+<JGM055_100mm65_Type98_dead.model>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGM055_100mm65_Type98_dead_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGM055_100mm65_Type98_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM055_100mm65_Type98_dead.model>

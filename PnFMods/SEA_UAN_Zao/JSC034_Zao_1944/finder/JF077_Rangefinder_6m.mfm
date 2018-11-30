@@ -1,0 +1,17 @@
+<JF077_Rangefinder_6m.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/default_ao.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m_mg.tga	</Texture>
+	</property>
+</JF077_Rangefinder_6m.mfm>

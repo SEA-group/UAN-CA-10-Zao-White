@@ -1,1 +1,23 @@
-<JRS062_Radar_Type_A6.model><action><name>idle</name><animation>Rotation15rpm</animation><filler>true</filler></action><extent>2.000000</extent><parent>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS062_Radar_Type_A6_lod1</parent><materialNames /><visibilityBox><min>-0.020408 -0.000000 -0.020408</min><max>0.020408 0.073453 0.020408</max></visibilityBox><castsShadow>false</castsShadow><animation><name>Rotation15rpm</name><frameRate>30.000000</frameRate><nodes>content/animation/common/Rotation15rpm</nodes></animation><exporter>1.5</exporter><nodefullVisual>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS062_Radar_Type_A6</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JRS062_Radar_Type_A6.model>
+<JRS062_Radar_Type_A6.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation15rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS062_Radar_Type_A6_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.020408 -0.000000 -0.020408	</min>
+		<max>	0.020408 0.073453 0.020408	</max>
+	</visibilityBox>
+	<castsShadow>	false	</castsShadow>
+	<animation>
+		<name>	Rotation15rpm	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/Rotation15rpm	</nodes>
+	</animation>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS062_Radar_Type_A6	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS062_Radar_Type_A6.model>

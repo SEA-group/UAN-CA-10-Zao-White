@@ -1,0 +1,17 @@
+<JRS044_Radar_Type_A6_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS044_Radar_Type_A6_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS044_Radar_Type_A6_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS044_Radar_Type_A6_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/default_ao.tga	</Texture>
+	</property>
+</JRS044_Radar_Type_A6_skinned.mfm>

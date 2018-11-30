@@ -1,1 +1,84 @@
-<JF035_Rangefinder_6m.visual><boundingBox><min>-0.218469 -0.000095 -0.132114</min><max>0.218469 0.167327 0.148479</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Rangefinger_6m</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>JM006</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>JM125_Signal_Lamp_3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Rangefinger_6m</node><geometry><vertices>Rangefinger_6mShape.vertices</vertices><primitive>Rangefinger_6mShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_radar</identifier><mfm>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/fdf271c5d0d75368f17b01dea629a69e.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>JM006</node><geometry><vertices>JM006Shape.vertices</vertices><primitive>JM006Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_radar1</identifier><mfm>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/badafe4f91e462b86e165692cbbb5fe5.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>JM125_Signal_Lamp_3</node><geometry><vertices>JM125_Signal_Lamp_Shape3.vertices</vertices><primitive>JM125_Signal_Lamp_Shape3.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_misc</identifier><mfm>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/2966fc5bec8abd23754f8d0df30caaa4.mfm</mfm></material></primitiveGroup></geometry></renderSet></JF035_Rangefinder_6m.visual>
+<JF035_Rangefinder_6m.visual>
+	<boundingBox>
+		<min>	-0.218469 -0.000095 -0.132114	</min>
+		<max>	0.218469 0.167327 0.148479	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Rangefinger_6m	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	JM006	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	JM125_Signal_Lamp_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Rangefinger_6m	</node>
+		<geometry>
+			<vertices>	Rangefinger_6mShape.vertices	</vertices>
+			<primitive>	Rangefinger_6mShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF035_Rangefinder_6m.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JM006	</node>
+		<geometry>
+			<vertices>	JM006Shape.vertices	</vertices>
+			<primitive>	JM006Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_radar1	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JM107_Binocular.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JM125_Signal_Lamp_3	</node>
+		<geometry>
+			<vertices>	JM125_Signal_Lamp_Shape3.vertices	</vertices>
+			<primitive>	JM125_Signal_Lamp_Shape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_misc	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JM124_Signal_Lamp_2.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JF035_Rangefinder_6m.visual>

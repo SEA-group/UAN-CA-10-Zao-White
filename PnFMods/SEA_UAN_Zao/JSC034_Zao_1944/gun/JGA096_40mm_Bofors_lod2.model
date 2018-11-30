@@ -1,1 +1,8 @@
-<JGA096_40mm_Bofors_lod2.model><castsShadow>false</castsShadow><parent>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors_lod3</parent><extent>10.000000</extent><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JGA096_40mm_Bofors_lod2.model>
+<JGA096_40mm_Bofors_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors_lod3	</parent>
+	<extent>	10.000000	</extent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA096_40mm_Bofors_lod2.model>
