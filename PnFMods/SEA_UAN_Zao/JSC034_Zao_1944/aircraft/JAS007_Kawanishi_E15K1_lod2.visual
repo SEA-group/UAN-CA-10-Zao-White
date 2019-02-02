@@ -1,7 +1,7 @@
 <JAS007_Kawanishi_E15K1_lod2.visual>
 	<boundingBox>
-		<min>	-0.462842 -0.021492 -0.430898	</min>
-		<max>	0.459856 0.308461 0.342163	</max>
+		<min>	-0.464257 -0.003483 -0.430898	</min>
+		<max>	0.464257 0.324727 0.342163	</max>
 	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
@@ -20,12 +20,12 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	HP_gunFireBack	</identifier>
+				<identifier>	chassis_on_BlendBone	</identifier>
 				<transform>
-					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	0.000000 0.224610 -0.159922 1.000000	</row3>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
 			</node>
 		</node>
@@ -34,11 +34,25 @@
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
 		<node>	hull	</node>
 		<geometry>
-			<vertices>	hull_lodShape2.vertices	</vertices>
-			<primitive>	hull_lodShape2.indices	</primitive>
+			<vertices>	hull_lod2Shape.vertices	</vertices>
+			<primitive>	hull_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS	</identifier>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	chassis_on_BlendBone	</node>
+		<geometry>
+			<vertices>	chassis_on_BlendBone_lod2Shape.vertices	</vertices>
+			<primitive>	chassis_on_BlendBone_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Plane	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -2,7 +2,7 @@
 	<castsShadow>	true	</castsShadow>
 	<exporter>	1.6	</exporter>
 	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1_lod3	</parent>
-	<extent>	40.000000	</extent>
+	<extent>	40.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1_lod2	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JAS007_Kawanishi_E15K1_lod2.model>
