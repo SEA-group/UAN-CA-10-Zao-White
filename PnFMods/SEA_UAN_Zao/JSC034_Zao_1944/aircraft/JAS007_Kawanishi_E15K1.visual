@@ -1,7 +1,7 @@
 <JAS007_Kawanishi_E15K1.visual>
 	<boundingBox>
-		<min>	-0.464715 -0.006599 -0.430898	</min>
-		<max>	0.464715 0.324727 0.342488	</max>
+		<min>	-0.463937 -0.024212 -0.430898	</min>
+		<max>	0.464003 0.306737 0.342488	</max>
 	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
@@ -20,93 +20,75 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	chassis_off_BlendBone	</identifier>
+				<identifier>	propeller_disk_1	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	chassis_on_BlendBone	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	hull_wire	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	propeller_mod_l	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.183758 0.197232 1.000000	</row3>
+					<row3>	0.000000 0.165749 0.197232 1.000000	</row3>
 				</transform>
 				<node>
-					<identifier>	disc	</identifier>
+					<identifier>	disk_1	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
-					<node>
-						<identifier>	disc_cap	</identifier>
-						<transform>
-							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-						</transform>
-					</node>
 				</node>
 			</node>
 			<node>
-				<identifier>	propeller_mod_r	</identifier>
+				<identifier>	propeller_disk	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.183758 0.215107 1.000000	</row3>
+					<row3>	0.000000 0.165749 0.215107 1.000000	</row3>
 				</transform>
 				<node>
-					<identifier>	disc_1	</identifier>
+					<identifier>	disk	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
-					<node>
-						<identifier>	disc_cap_1	</identifier>
-						<transform>
-							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-						</transform>
-					</node>
 				</node>
 			</node>
 			<node>
-				<identifier>	mod	</identifier>
+				<identifier>	chassis_off	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	chassis_on	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	propeller_mod	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireBack	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.224610 -0.159922 1.000000	</row3>
 				</transform>
 			</node>
 		</node>
@@ -119,7 +101,7 @@
 			<primitive>	hullShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBS	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -127,97 +109,41 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	chassis_off_BlendBone	</node>
+		<node>	disk_1	</node>
 		<geometry>
-			<vertices>	chassis_off_BlendBoneShape.vertices	</vertices>
-			<primitive>	chassis_off_BlendBoneShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	chassis_on_BlendBone	</node>
-		<geometry>
-			<vertices>	chassis_on_BlendBoneShape.vertices	</vertices>
-			<primitive>	chassis_on_BlendBoneShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	hull_wire	</node>
-		<geometry>
-			<vertices>	hull_wireShape.vertices	</vertices>
-			<primitive>	hull_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disc	</node>
-		<geometry>
-			<vertices>	discShape.vertices	</vertices>
-			<primitive>	discShape.indices	</primitive>
+			<vertices>	disk_1Shape.vertices	</vertices>
+			<primitive>	disk_1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	PROPELLERMAT_propeller	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/Japan_Disk_2Blade_03_alpha.mfm	</mfm>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/Japan_Disk_2Blade_03.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disc_cap	</node>
+		<node>	disk	</node>
 		<geometry>
-			<vertices>	disc_capShape.vertices	</vertices>
-			<primitive>	disc_capShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disc_1	</node>
-		<geometry>
-			<vertices>	disc_1Shape.vertices	</vertices>
-			<primitive>	disc_1Shape.indices	</primitive>
+			<vertices>	diskShape.vertices	</vertices>
+			<primitive>	diskShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	PROPELLERMAT_propeller	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/Japan_Disk_2Blade_03_alpha.mfm	</mfm>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/Japan_Disk_2Blade_03.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disc_cap_1	</node>
+		<node>	chassis_off	</node>
 		<geometry>
-			<vertices>	disc_cap_1Shape.vertices	</vertices>
-			<primitive>	disc_cap_1Shape.indices	</primitive>
+			<vertices>	chassis_offShape.vertices	</vertices>
+			<primitive>	chassis_offShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBS	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -225,13 +151,27 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	mod	</node>
+		<node>	chassis_on	</node>
 		<geometry>
-			<vertices>	modShape.vertices	</vertices>
-			<primitive>	modShape.indices	</primitive>
+			<vertices>	chassis_onShape.vertices	</vertices>
+			<primitive>	chassis_onShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBS	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	propeller_mod	</node>
+		<geometry>
+			<vertices>	propeller_modShape.vertices	</vertices>
+			<primitive>	propeller_modShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

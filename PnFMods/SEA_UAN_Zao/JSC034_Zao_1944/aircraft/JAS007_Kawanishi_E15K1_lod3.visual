@@ -1,7 +1,7 @@
 <JAS007_Kawanishi_E15K1_lod3.visual>
 	<boundingBox>
-		<min>	-0.443149 -0.002375 -0.430898	</min>
-		<max>	0.443149 0.319619 0.342163	</max>
+		<min>	-0.443149 -0.020384 -0.430898	</min>
+		<max>	0.443150 0.301610 0.342163	</max>
 	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
@@ -20,12 +20,12 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	chassis_on_BlendBone	</identifier>
+				<identifier>	HP_gunFireBack	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.224610 -0.159922 1.000000	</row3>
 				</transform>
 			</node>
 		</node>
@@ -38,21 +38,7 @@
 			<primitive>	hull_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	chassis_on_BlendBone	</node>
-		<geometry>
-			<vertices>	chassis_on_BlendBone_lod3Shape.vertices	</vertices>
-			<primitive>	chassis_on_BlendBone_lod3Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBS	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAS007_Kawanishi_E15K1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

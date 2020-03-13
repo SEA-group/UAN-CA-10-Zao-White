@@ -20,7 +20,7 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	propeller_mod	</identifier>
+				<identifier>	propeller_disk	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -28,22 +28,13 @@
 					<row3>	0.000000 0.179911 0.206792 1.000000	</row3>
 				</transform>
 				<node>
-					<identifier>	disc	</identifier>
+					<identifier>	disk	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
-					<node>
-						<identifier>	disc_cap	</identifier>
-						<transform>
-							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-						</transform>
-					</node>
 				</node>
 			</node>
 			<node>
@@ -65,16 +56,7 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	mod	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	hull_wire	</identifier>
+				<identifier>	propeller_mod	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -100,56 +82,28 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disc	</node>
+		<node>	disk	</node>
 		<geometry>
-			<vertices>	discShape.vertices	</vertices>
-			<primitive>	discShape.indices	</primitive>
+			<vertices>	diskShape.vertices	</vertices>
+			<primitive>	diskShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	PROPELLERMAT_propeller	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/Japan_Disk_3Blade_01_alpha.mfm	</mfm>
+					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/Japan_Disk_3Blade_01.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disc_cap	</node>
+		<node>	propeller_mod	</node>
 		<geometry>
-			<vertices>	disc_capShape.vertices	</vertices>
-			<primitive>	disc_capShape.indices	</primitive>
+			<vertices>	propeller_modShape.vertices	</vertices>
+			<primitive>	propeller_modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	PBS_Plane	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAF002_Kawanishi_N1K1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	mod	</node>
-		<geometry>
-			<vertices>	modShape.vertices	</vertices>
-			<primitive>	modShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAF002_Kawanishi_N1K1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	hull_wire	</node>
-		<geometry>
-			<vertices>	hull_wireShape.vertices	</vertices>
-			<primitive>	hull_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/aircraft/JAF002_Kawanishi_N1K1_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
