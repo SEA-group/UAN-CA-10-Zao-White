@@ -1,7 +1,7 @@
 <JD059_Torpedo_Director.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.5	</exporter>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD059_Torpedo_Director_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/lods/JD059_Torpedo_Director_lod1	</parent>
 	<extent>	2.000000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD059_Torpedo_Director	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

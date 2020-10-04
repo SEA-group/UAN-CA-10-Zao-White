@@ -1,7 +1,7 @@
 <JGA010_25mm_Type96.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA010_25mm_Type96_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/lods/JGA010_25mm_Type96_lod1	</parent>
 	<extent>	2.000000	</extent>
 	<materialNames />
 	<visibilityBox>

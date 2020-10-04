@@ -1,0 +1,9 @@
+<JSC034_Zao_1944_MidFront_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/lods/JSC034_Zao_1944_MidFront_lod3	</parent>
+	<extent>	42.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/lods/JSC034_Zao_1944_MidFront_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSC034_Zao_1944_MidFront_lod2.model>

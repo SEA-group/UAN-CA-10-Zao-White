@@ -20,6 +20,15 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
+				<identifier>	SEA_Glass	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidFront_crack_Bow	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -87,7 +96,15 @@
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	SEA_Glass	</node>
+		<geometry>
+			<vertices>	SEA_Glass.vertices	</vertices>
+			<primitive>	SEA_Glass.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullG	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944_Glass.mfm	</mfm>

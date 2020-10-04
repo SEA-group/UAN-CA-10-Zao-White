@@ -1,7 +1,7 @@
 <JF017_Rangefinder_4_5m.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF017_Rangefinder_4_5m_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/lods/JF017_Rangefinder_4_5m_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.190000 0.000050 -0.109805	</min>

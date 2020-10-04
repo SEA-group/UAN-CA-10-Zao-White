@@ -1,7 +1,7 @@
 <JD019_Machine_Gun_ControlTower.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD019_Machine_Gun_ControlTower_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/lods/JD019_Machine_Gun_ControlTower_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.069145 0.000041 -0.068233	</min>

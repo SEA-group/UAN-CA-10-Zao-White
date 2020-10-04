@@ -6,7 +6,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.5	</exporter>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS079_Radar_Type_23_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/lods/JRS079_Radar_Type_23_lod1	</parent>
 	<extent>	2.000000	</extent>
 	<materialNames />
 	<animation>

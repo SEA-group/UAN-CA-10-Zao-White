@@ -1,7 +1,7 @@
 <JGA096_40mm_Bofors.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/lods/JGA096_40mm_Bofors_lod1	</parent>
 	<extent>	2.000000	</extent>
 	<materialNames />
 	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors	</nodefullVisual>

@@ -1,6 +1,6 @@
 <JGT090_610mm5_Type_93R.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGT090_610mm5_Type_93R_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/lods/JGT090_610mm5_Type_93R_lod1	</parent>
 	<extent>	2.000000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGT090_610mm5_Type_93R	</nodefullVisual>

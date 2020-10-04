@@ -6,7 +6,7 @@
 		<filler>	true	</filler>
 	</action>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS010_Radar_Type_13_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/lods/JRS010_Radar_Type_13_lod1	</parent>
 	<materialNames />
 	<animation>
 		<name>	Rotation2rpm	</name>

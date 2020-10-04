@@ -1,5 +1,5 @@
 <JGM092_203mm55_dead.model>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGM092_203mm55_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/lods/JGM092_203mm55_dead_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
