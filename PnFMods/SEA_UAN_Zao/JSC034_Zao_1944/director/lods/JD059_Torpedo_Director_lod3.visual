@@ -29,7 +29,7 @@
 			<primitive>	JD059_Torpedo_Director_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD059_Torpedo_Director.mfm	</mfm>
 				</material>
 			</primitiveGroup>

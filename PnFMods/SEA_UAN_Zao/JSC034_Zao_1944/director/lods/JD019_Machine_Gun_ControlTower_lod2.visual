@@ -38,7 +38,7 @@
 			<primitive>	ControlTower_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD019_Machine_Gun_ControlTower.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -52,7 +52,7 @@
 			<primitive>	MachineGun_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_director	</identifier>
+					<identifier>	SHIPMATX_PBS_director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/director/JD056_MachineGun_Control_Position.mfm	</mfm>
 				</material>
 			</primitiveGroup>

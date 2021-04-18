@@ -74,7 +74,7 @@
 			<primitive>	MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -88,7 +88,7 @@
 			<primitive>	MidBack_crack_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -102,7 +102,7 @@
 			<primitive>	MidBack_crack_MidFront_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -116,7 +116,7 @@
 			<primitive>	MidBack_crack_Stern_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -130,7 +130,7 @@
 			<primitive>	MidBack_crack_Stern_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -144,7 +144,7 @@
 			<primitive>	MidBack_patch_Stern_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>

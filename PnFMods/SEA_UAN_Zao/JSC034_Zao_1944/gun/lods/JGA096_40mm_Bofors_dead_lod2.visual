@@ -29,7 +29,7 @@
 			<primitive>	JGA096_dead_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA096_40mm_Bofors_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

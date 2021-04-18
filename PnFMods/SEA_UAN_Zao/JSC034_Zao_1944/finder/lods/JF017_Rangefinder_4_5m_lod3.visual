@@ -29,7 +29,7 @@
 			<primitive>	Rangefinder_4_5_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF017_Rangefinder_4_5m.mfm	</mfm>
 				</material>
 			</primitiveGroup>

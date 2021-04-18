@@ -29,7 +29,7 @@
 			<primitive>	Rangefinger_6m_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_misk	</identifier>
+					<identifier>	SHIPMATX_PBS_misk	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/finder/JF077_Rangefinder_6m.mfm	</mfm>
 				</material>
 			</primitiveGroup>

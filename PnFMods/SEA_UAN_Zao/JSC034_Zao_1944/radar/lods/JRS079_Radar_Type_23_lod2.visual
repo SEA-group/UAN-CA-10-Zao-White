@@ -65,7 +65,7 @@
 			<primitive>	JRS079_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/radar/JRS079_Radar_Type_23_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

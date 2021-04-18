@@ -29,7 +29,7 @@
 			<primitive>	singleTurret_dead_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGA018_25mm_Type96_single_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

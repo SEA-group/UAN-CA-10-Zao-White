@@ -29,7 +29,7 @@
 			<primitive>	Type93R_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGT017_610mm4_Type_93_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
